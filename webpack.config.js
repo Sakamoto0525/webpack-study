@@ -6,7 +6,7 @@ module.exports = {
   // モードの設定（モードを指定しないとwebpack実行時に警告が出る）
   mode: 'development',
   // エントリーポイントの設定
-  entry: './src/js/app.js',
+  entry: './src/app.js',
   // 出力の設定
   output: {
     // 出力するファイル名
